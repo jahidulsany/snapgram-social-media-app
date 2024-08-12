@@ -2,7 +2,7 @@
 
 
 ## <a name="introduction">🤖 Introduction</a>
-<h3 align="center">A Social Media Application</h3>
+<h2 align="center">A Social Media Application</h3>
 
 user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
 
@@ -41,7 +41,8 @@ user-friendly platform that has a nice look and lots of features. Easily create 
 
 and many more, including code architecture and reusability 
 
-**Installation**
+
+## <a name="installation">⏬ Installation</a>
 
 Install the project dependencies using npm:
 
